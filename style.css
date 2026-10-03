@@ -60,6 +60,7 @@ body {
 	background: linear-gradient(to bottom, #3d3d3d, #aeaeae);
 	height: 36px;
     margin-top: 5px;
+    margin-bottom: 10px;
 }
 
 #menu ul {
@@ -90,16 +91,16 @@ body {
 }
 
 .main-wrapper {
-    display: flex;
+    /*display: flex;
     padding: 10px;
-    gap: 10px;
+    gap: 10px;*/
     max-width: 960px;
     margin: 0 auto;
     box-sizing: border-box;
 }
 
 #left {
-    width: 200px;
+    /*width: 200px;*/
     padding: 20px;
     background-color: white;
     color: black;
@@ -146,7 +147,7 @@ h3{
 }
 
 #right {
-    flex-grow: 1; 
+    /*flex-grow: 1; */
 }
 
 #right ul {
